@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me  
 
-I'm a **Full-Stack Developer** with hands-on experience in designing, developing, and optimizing web applications using modern technologies. I enjoy creating impactful software — from interactive games to AI-driven platforms — that improve accessibility and user experience.
+I'm a **Full-Stack Developer** with handson experience in designing, developing, and optimizing web applications using modern technologies. I enjoy creating impactful software — from interactive games to AI-driven platforms that improve accessibility and user experience.
 
 💡 Currently exploring **AI integration** in full-stack applications.  
 🌍 Open to **internship and collaboration opportunities** in software engineering.  
@@ -31,10 +31,10 @@ I'm a **Full-Stack Developer** with hands-on experience in designing, developing
 ## 🛠️ Tech Stack  
 
 **Frontend:** Next.js, React, TailwindCSS  
-**Backend:** Node.js, Go, Express  
+**Backend:** Node.js, Django, Express  
 **Database:** MongoDB, PostgreSQL  
-**Languages:** JavaScript, Python, Go  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Languages:** JavaScript, Python, Typescript   
+**Tools:** Git, GitHub, VS Code, Postman, Pycharm   
 
 ---
 
@@ -44,11 +44,8 @@ I'm a **Full-Stack Developer** with hands-on experience in designing, developing
 > Built a two-player arcade game using **Python (Pygame)** featuring realistic **physics simulation**, difficulty levels, and smooth animations for enhanced replayability.
 
 ### 🧠 A2SV Application Platform  
-> Contributed to a full-stack web platform for **2,000+ A2SV students** to manage coursework, track progress, and access resources.  
+> Contributed to a full-stack web platform for **200+ A2SV students** to manage coursework, track progress, and access resources.  
 > Developed and optimized key features with **React**, **TailwindCSS**, **Node.js**, and **MongoDB**, improving performance and user interaction.
-
-### 🩺 Remadymate AI Health Assistant  
-> Built an **AI-powered health assistant** supporting both **Amharic and English**, providing users with context-aware medical guidance and insights using **LLM integration** and a scalable backend.
 
 ---
 
