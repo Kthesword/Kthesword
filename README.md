@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Kalid Adem  
 
-🎯 **Full-Stack Developer** | Passionate about building scalable web apps and AI-powered solutions  
+🎯 ** Developer** | Passionate about building scalable web apps and AI-powered solutions  
 
 ---
 
@@ -31,9 +31,9 @@ I'm a **Full-Stack Developer** with handson experience in designing, developing,
 ## 🛠️ Tech Stack  
 
 **Frontend:** Next.js, React, TailwindCSS  
-**Backend:** Node.js, Django, Express  
+**Backend:** Node.js, Golang 
 **Database:** MongoDB, PostgreSQL  
-**Languages:** JavaScript, Python, Typescript   
+**Languages:** JavaScript, Python, Typescript, Golang  
 **Tools:** Git, GitHub, VS Code, Postman, Pycharm   
 
 ---
@@ -41,11 +41,10 @@ I'm a **Full-Stack Developer** with handson experience in designing, developing,
 ## 🧩 Featured Projects  
 
 ### 🎮 Pong Game  
-> Built a two-player arcade game using **Python (Pygame)** featuring realistic **physics simulation**, difficulty levels, and smooth animations for enhanced replayability.
+> Built a two-player arcade game using **Python** featuring realistic **physics simulation** for enhanced replayability.
 
 ### 🧠 A2SV Application Platform  
-> Contributed to a full-stack web platform for **200+ A2SV students** to manage coursework, track progress, and access resources.  
-> Developed and optimized key features with **React**, **TailwindCSS**, **Node.js**, and **MongoDB**, improving performance and user interaction.
+> Contributed to a full-stack web platform for **A2SV students** to manage coursework, track progress, and access resources.  
 
 ---
 
