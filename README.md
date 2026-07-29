@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Kalid Adem  
 
-🎯 **Developer** | Passionate about building scalable web apps and AI-powered solutions  
+🎯 **AI Developer** | Passionate about building scalable web apps and AI-powered solutions  
 
 ---
 
 ## 🚀 About Me  
 
-I'm a **Developer** with handson experience in designing, developing, and optimizing web applications using modern technologies. I enjoy creating impactful software from interactive games to AI-driven platforms that improve accessibility and user experience.
+I'm an **AI Developer** with handson experience in designing, developing, and optimizing web applications using modern technologies. I enjoy creating impactful software from interactive games to AI-driven platforms that improve accessibility and user experience.
 
 💡 Currently exploring **AI** in full-stack applications.  
 🌍 Open to **internship and collaboration opportunities** in software engineering.  
