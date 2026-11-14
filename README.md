@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me  
 
-I'm a **Software Engineer & AI Developer** with hands-on experience designing, developing, and optimizing full-stack applications and AI-driven platforms. Currently interning at **GoldenAge Technology PLC**, engineering **OpsFlow** — an enterprise-grade operations and asset management suite.
+I'm a **Software Engineer & AI Developer** with hands-on experience designing, developing, and optimizing full-stack applications and AI-driven platforms. Currently interning at **GoldenAge Technology PLC**, engineering **OpsFlow**  an enterprise-grade operations and asset management suite.
 
 💼 **Current Role:** Software Engineering Intern at **GoldenAge Technology PLC** (OpsFlow platform)  
 💡 **Interests:** Exploring **AI** integration in modern full-stack architectures & scalable distributed systems  
