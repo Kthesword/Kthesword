@@ -99,14 +99,14 @@ I'm a **Software Engineer & AI Developer** with hands-on experience designing, d
 
 ---
 
-## 📈 Stats  
+## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kthesword&show_icons=true&theme=tokyonight" alt="Kalid's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kthesword&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kthesword&show_icons=true&theme=tokyonight" alt="Kalid's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kthesword&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kthesword&theme=tokyonight" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
